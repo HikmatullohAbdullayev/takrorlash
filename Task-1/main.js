@@ -28,5 +28,19 @@
 // }
 
 
+// let ranglar = [ 'oq','qora','pushti']
+// for(let index in ranglar){
+//     console.log(index, ranglar[index]);
+// } 
 
- 
+
+// let sonlar = (son1,son2) => {
+//     if (son1< son2) {
+//        return son2
+        
+//     }else{
+//        return son1
+//     }
+// }
+// console.log(sonlar(2,3));
+
