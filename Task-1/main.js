@@ -114,7 +114,15 @@ let str = "   alakimfalonchiyev2@gmao.com  "
 
 
 
-console.log(natija);
+// console.log(natija);
+
+
+
+// Number
+
+
+
+
 
 // const arr = [[false,true] , [1,2], 99 , "str"]
 // for (let i=0 ; i<arr.length ; i++){
@@ -122,6 +130,21 @@ console.log(natija);
 //         console.log(i);
 //     }
 // }
+
+
+// const item = document.querySelectorAll('#text')
+// item.forEach(item => {
+//     item.textContent += ' darslari'
+// });
+
+
+// const user = ['Hikmatulloh','Habibulloh','Xayrulloh','kim']
+// let ol = document.querySelector('ol')
+// // console.log(ol);
+// user.forEach((name) => {
+//     ol.innerHTML += `<li> ${name} </li>`
+// } )
+
 
 
 
