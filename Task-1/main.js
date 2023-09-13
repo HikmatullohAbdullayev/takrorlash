@@ -69,7 +69,7 @@
 // console.log(fizzBuzz(16));
 
 
-let str = "   alakimfalonchiyev2@gmao.com  "
+// let str = "   alakimfalonchiyev2@gmao.com  "
 // topilgan birinchisini oladi
 
 // let natija = str.indexOf('a')
@@ -144,6 +144,40 @@ let str = "   alakimfalonchiyev2@gmao.com  "
 // user.forEach((name) => {
 //     ol.innerHTML += `<li> ${name} </li>`
 // } )
+
+
+
+
+// let str =document.querySelectorAll('p')
+// str.forEach((item) => {
+//    if(item.textContent.includes ('error') ){
+//     item.classList.add('error')
+//    }
+//    if (item.textContent.includes ('success')){
+//     item.classList.add('success')
+//    }
+// })
+
+
+// classList.add('className') yangi class qo'shadi 
+
+
+// classList.remove('className') classni o'zgartiradi
+
+// classList.toggle('className') yangi class qo'shadi yokida eskisini olib tashlaydi
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
